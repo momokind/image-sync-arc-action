@@ -1,6 +1,6 @@
 docker.io:
   username: ${DOCKERIO_USERNAME}
   password: ${DOCKERIO_PASSWORD}
-registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}:
+registry.cn-guangzhou.aliyuncs.com:
   password: ${ACR_PASSWORD}
   username: ${ACR_USERNAME}
