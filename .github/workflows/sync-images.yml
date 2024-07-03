@@ -20,5 +20,6 @@ jobs:
         env:
           ACR_USERNAME: ${{ secrets.ACR_USERNAME }}
           ACR_PASSWORD: ${{ secrets.ACR_PASSWORD }}
+          ACR_NAMESPACE: ${{ secrets.ACR_NAMESPACE }}
           DOCKERIO_USERNAME: ${{ secrets.DOCKERIO_USERNAME }}
           DOCKERIO_PASSWORD: ${{ secrets.DOCKERIO_PASSWORD }}
