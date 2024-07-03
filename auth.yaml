@@ -1,3 +1,6 @@
-registry.cn-hangzhou.aliyuncs.com/hhyasdf:
+docker.io:
+  username: ${DOCKERIO_USERNAME}
+  password: ${DOCKERIO_PASSWORD}
+registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}:
   password: ${ACR_PASSWORD}
-  username: hhyatcn
+  username: ${ACR_USERNAME}
