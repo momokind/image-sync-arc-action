@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-momokind/mv: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/mv"
+momokind/mv:Cold.War.II.2016: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/mv"
