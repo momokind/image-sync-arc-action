@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-node:/\d+\.\d+\.\d+-slim$/: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/node"
+hashicorp/vault:1.17.2: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/vault:1.17.2"
