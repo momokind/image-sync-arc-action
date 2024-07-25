@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-hashicorp/vault:1.17.2: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/vault:1.17.2"
+maven:3.9.6-eclipse-temurin-21-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/maven"
