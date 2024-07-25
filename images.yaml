@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-maven:sha256@a5ae0a2f08db1930c935834fb1bbe026f6125a539e979b96c717e4193917062d: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/maven"
+maven@sha256:a5ae0a2f08db1930c935834fb1bbe026f6125a539e979b96c717e4193917062d: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/maven"
