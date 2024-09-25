@@ -1,2 +1,9 @@
 # 源镜像: 目标镜像地址
-maven@sha256:a5ae0a2f08db1930c935834fb1bbe026f6125a539e979b96c717e4193917062d: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/maven"
+gitlab/gitlab-ce:15.0.5-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:15.0.5-ce.0"
+gitlab/gitlab-ce:15.4.6-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:15.4.6-ce.0"
+gitlab/gitlab-ce:15.11.13-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:15.11.13-ce.0"
+gitlab/gitlab-ce:16.3.8-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:16.3.8-ce.0"
+gitlab/gitlab-ce:16.7.9-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:16.7.9-ce.0"
+gitlab/gitlab-ce:16.11.10-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:16.11.10-ce.0"
+gitlab/gitlab-ce:17.3.3-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:17.3.3-ce.0"
+gitlab/gitlab-ce:17.4.0-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:17.4.0-ce.0"
