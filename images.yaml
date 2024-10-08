@@ -1,5 +1,2 @@
 # 源镜像: 目标镜像地址
-gitlab/gitlab-ce:16.3.9-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:16.3.9-ce.0"
-gitlab/gitlab-ce:16.7.10-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:16.7.10-ce.0"
-gitlab/gitlab-ce:17.3.4-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:17.3.4-ce.0"
-gitlab/gitlab-ce:17.4.1-ce.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gitlab-ce:17.4.1-ce.0"
+maven:3.9.6-eclipse-temurin-21-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/maven:3.9.6-jdk-21-alpine"
