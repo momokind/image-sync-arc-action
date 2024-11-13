@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-maven:3.9.6-eclipse-temurin-21-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/maven:3.9.6-jdk-21-alpine"
+oraclelinux:7-slim: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/oraclelinux:7-slim"
