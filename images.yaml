@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-oraclelinux:7: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/oraclelinux:7"
+amazoncorretto:17-al2-jdk: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/amazoncorretto:17-al2-jdk"
