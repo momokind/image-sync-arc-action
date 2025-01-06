@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-amazoncorretto:17-al2-jdk: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/amazoncorretto:17-al2-jdk"
+amazoncorretto:17-al2023-jdk: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/amazoncorretto:17-al2023-jdk"
