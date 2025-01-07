@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-amazoncorretto:17-al2023-jdk: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/amazoncorretto:17-al2023-jdk"
+bkrepo/bkrepo-preview-base:0.0.1: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/bkrepo-preview-base:0.0.1"
