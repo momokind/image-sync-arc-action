@@ -5,7 +5,7 @@ postgres:15-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/images:
 redis:6-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/images:redis-6-alpine"
 langgenius/dify-sandbox:0.2.10: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/images:dify-sandbox-0.2.10"
 ubuntu/squid:latest: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/images:squid-latest"
-certbot/certbot: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/images:certbot-latest"
+certbot/certbot:latest: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/images:certbot-latest"
 nginx:latest: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/images:nginx-latest"
 pingcap/tidb:v8.4.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/images:tidb-v8.4.0"
 semitechnologies/weaviate:1.19.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/images:weaviate-1.19.0"
