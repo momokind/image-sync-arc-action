@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-certbot/certbot:latest: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/images:certbot-latest"
+sonatype/nexus3:3.70.4-java17-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/nexus3:3.70.4-java17-alpine"
