@@ -1,2 +1,3 @@
 # 源镜像: 目标镜像地址
-sonatype/nexus3:3.78.1: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/nexus3:3.78.1"
+nikolaik/python-nodejs:python3.10-nodejs20: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/python-nodejs:python3.10-nodejs20"
+selenium/standalone-chrome:122.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/standalone-chrome:122.0"
