@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-moby/buildkit:buildx-stable-1: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/buildkit:buildx-stable-1"
+cnflysky/redroid-rk3588:lineage-20: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/redroid-rk3588:lineage-20"
