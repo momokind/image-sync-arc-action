@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-python:3.12-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/python:3.12-alpine"
+python:3.12-slim: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/python:3.12-slim"
