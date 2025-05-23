@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-cnflysky/redroid-rk3588:lineage-20: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/redroid-rk3588:lineage-20"
+python:3.12-alpine⁠: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/python:3.12-alpine⁠"
