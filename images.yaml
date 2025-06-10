@@ -1,2 +1,4 @@
 # 源镜像: 目标镜像地址
-python:3.12-slim: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/python:3.12-slim"
+node@sha256:847a2a79a5190cae14a0617cfae5b61abea3f8bf0d914cd3cdf4bebfebd53803: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/node:22.4.0-slim-arm64"
+node@sha256:07b7bdbd43cf08fe49016e33f1d804ebf93ff279891adac3fe2235d196d44973: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/node:20.12.2-slim-arm64"
+node@sha256:017cc7ee2098b1f72b4dc2111237113f164ae4d001c56fea75f4ad7bf9d557ca: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/node:18.20.3-slim-arm64"
