@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-argoproj/argocd:v2.14.15: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/argocd:v2.14.15"
+argoproj/argocd:v2.14.13: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/argocd:v2.14.13"
