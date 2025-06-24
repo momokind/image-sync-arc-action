@@ -1,3 +1,2 @@
 # 源镜像: 目标镜像地址
-argoproj/argocd:latest: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/argocd:latest"
-dexidp/dex:v2.43.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/dex:v2.43.0"
+redis:7.2.7-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/redis:7.2.7-alpine"
