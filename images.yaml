@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-golang:1.26.0 "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/golang:1.26.0"
+golang:1.26.0:"registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/golang:1.26.0"
