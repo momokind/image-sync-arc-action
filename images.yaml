@@ -1,3 +1,2 @@
 # 源镜像: 目标镜像地址
-mcr.microsoft.com/playwright: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/playwright"
-
+golang:1.26.0 "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/golang:1.26.0"
