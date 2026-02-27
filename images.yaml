@@ -1,3 +1,3 @@
 # 源镜像: 目标镜像地址
-frankescobar/allure-docker-service:2.35.1: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/allure-docker-service:2.35.1"
-frankescobar/allure-docker-service-ui:7.0.3: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/allure-docker-service-ui:7.0.3"
+frankescobar/allure-docker-service: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/allure-docker-service"
+frankescobar/allure-docker-service-ui: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/allure-docker-service-ui"
