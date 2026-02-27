@@ -1,2 +1,3 @@
 # 源镜像: 目标镜像地址
-golang:1.26.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/golang:1.26.0"
+eclipse-temurin:8-jre-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/eclipse-temurin:8-jre-alpine"
+eclipse-temurin:8-jdk-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/eclipse-temurin:8-jdk-alpine"
