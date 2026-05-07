@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-node:24.14.0-slim: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/node:24.14.0-slim"
+golang:1.26.3: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/golang:1.26.3"
