@@ -1,2 +1,9 @@
 # 源镜像: 目标镜像地址
-golang:1.26.3: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/golang:1.26.3"
+gradle:8.13.0-jdk11: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gradle:8.13.0-jdk11"
+gradle:8.13.0-jdk17: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gradle:8.13.0-jdk17"
+gradle:8.13.0-jdk21: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gradle:8.13.0-jdk21"
+gradle:9.4.0-jdk17: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gradle:9.4.0-jdk17"
+gradle:9.4.0-jdk21: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gradle:9.4.0-jdk21"
+gradle:9.4.1-jdk17: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gradle:9.4.1-jdk17"
+gradle:9.4.1-jdk21: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gradle:9.4.1-jdk21"
+gradle:9.4.1-jdk25: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gradle:9.4.1-jdk25"
