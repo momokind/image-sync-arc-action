@@ -1,4 +1,2 @@
 # 源镜像: 目标镜像地址
-calciumion/new-api:latest: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/new-api:latest"
-postgres:15: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/postgres:15"
-redis:latest: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/redis:latest"
+seataio/seata-server:2.6.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/seata-server:2.6.0"
