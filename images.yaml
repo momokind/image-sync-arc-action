@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-seataio/seata-server:2.6.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/seata-server:2.6.0"
+apache/seata-server:2.6.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/seata-server:2.6.0"
