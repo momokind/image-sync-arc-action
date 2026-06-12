@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-apache/seata-server:2.6.0: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/seata-server:2.6.0"
+momokind/new-api:sub_path: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/new-api:sub_path"
