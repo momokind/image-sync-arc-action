@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-momokind/new-api:sub_path: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/new-api:sub_path"
+node:18.20.9-slim: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/node:18.20.9-slim"
