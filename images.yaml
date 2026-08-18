@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-node:22.12.0-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/node:22.12.0-alpine"
+node:18.20.8-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/node:18.20.8-alpine"
