@@ -1,2 +1,2 @@
 # 源镜像: 目标镜像地址
-node:18.20.8-alpine: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/node:18.20.8-alpine"
+gradle:6.6-jdk8: "registry.cn-guangzhou.aliyuncs.com/${ACR_NAMESPACE}/gradle:6.6-jdk8"
